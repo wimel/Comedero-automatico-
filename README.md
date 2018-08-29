@@ -18,7 +18,9 @@ Comedero autom√°tico para acuario con Arduino nano y un motor paso a paso, el c√
 ![mod1](images/mod2.jpg)
 
 2. Hacemos las conexiones de la placa Arduino con el motor paso a paso; las conexiones de Arduino con el motor paso a paso son las siguientes:
+
 <center>
+  
 | **Motor** | **Arduino** |
 | :---: | :-----: |
 | IN1   |   D11   |
@@ -27,6 +29,7 @@ Comedero autom√°tico para acuario con Arduino nano y un motor paso a paso, el c√
 | IN4   |   D8    |
 |  -    |   GND   |
 |  +    |   5v    |
+
 </center>
 
 ![conexiones](images/conexionesArduino.png)
