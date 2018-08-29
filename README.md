@@ -1,4 +1,4 @@
-# Comedero automático DIY
+# Comedero automático DIY para acuario :tropical_fish:
 Comedero automático para acuario con Arduino nano y un motor paso a paso, el código es lo más sencillo posible, en un futuro se implementará el control de luz del acuario y algunas cosas más.
 
 ## Componentes necesarios: 
@@ -34,4 +34,4 @@ Comedero automático para acuario con Arduino nano y un motor paso a paso, el c�
 
 4. Conectamos la placa de Arduino a cualquier cargador (con uno de movil es suficiente) y probamos que todo funciona correctamente.
 
-Espero les sirva de ayuda.
+Espero les sirva de ayuda. :octocat:
