@@ -6,6 +6,7 @@ Comedero automático para acuario con Arduino nano y un motor paso a paso, el c�
 * Motor paso a paso *28BYJ-48* + controladora *ULN2003* (4€).
 * Probeta (1~2€).
 * Pieza impresa en 3d.
+* IDE Arduino, se puede descargar desde [aquí](https://www.arduino.cc/en/Main/Software), 
 
 ## Pasos:
 
@@ -29,7 +30,9 @@ Comedero automático para acuario con Arduino nano y un motor paso a paso, el c�
 
 ![conexiones](images/conexionesArduino.png)
 
-3. Conectamos la placa de Arduino a cualquier cargador (con uno de movil es suficiente) y probamos que todo funciona correctamente.
+3. Cargamos el código en Arduino con su IDE, lo podéis encontrar en la carpeta de [arduinoCode](https://github.com/wimel/Comedero-automatico-/blob/master/ArduinoCode/comedero.ino).
+
+4. Conectamos la placa de Arduino a cualquier cargador (con uno de movil es suficiente) y probamos que todo funciona correctamente.
 ![prueba](images/comederoAutomatico.mp4)
 
 Espero les sirva de ayuda.
