@@ -3,7 +3,7 @@ Comedero automático para acuario con Arduino nano y un motor paso a paso, el c�
 
 ## Componentes necesarios: 
 * Arduino nano V3.0 (4~6€).
-* Motor paso a paso 28BYJ-48 + controladora ULN2003 (4€).
+* Motor paso a paso *28BYJ-48* + controladora *ULN2003* (4€).
 * Probeta (1~2€).
 * Pieza impresa en 3d.
 
