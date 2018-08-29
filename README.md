@@ -9,7 +9,7 @@ Comedero automático para acuario con Arduino nano y un motor paso a paso, el c�
 
 ## Pasos:
 
-*Como tuve ciertos problemas con el tornillo sin fin, decidí solucionarlo con el propio recipiente de la comida de los peces, la solución fué sencilla, pegue el recipiente del comedero al tornillo sin fin, así, cada vez que el tornillo da una vuelta hace el efecto de una cuchara cogiendo comida y volcándola cuando la probeta da la vuelta completa.*
+*Como tuve ciertos problemas con el tornillo sin fin, decidí solucionarlo con el propio recipiente de la comida de los peces, la solución fué sencilla, pegué el recipiente del comedero al tornillo sin fin, así, cada vez que el tornillo da una vuelta hace el efecto de una cuchara cogiendo comida y volcándola cuando la probeta da la vuelta completa.*
 
 1. Al recipiente de la comida para peces le  hacemos un orificio del tamaño de la probeta, y a la probeta le hacemos un pequeño rectángulo (el tamaño tiene que ser igual a la cantidad de comida que queremos que recoja).
 ![mod1](images/mod1.jpg)
