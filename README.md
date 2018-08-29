@@ -37,6 +37,5 @@ Comedero automático para acuario con Arduino nano y un motor paso a paso, el c�
 3. Cargamos el código en Arduino con su IDE, lo podéis encontrar en la carpeta de [arduinoCode](https://github.com/wimel/Comedero-automatico-/blob/master/ArduinoCode/comedero.ino).
 
 4. Conectamos la placa de Arduino a cualquier cargador (con uno de movil es suficiente) y probamos que todo funciona correctamente.
-![prueba](images/comederoAutomatico.mp4)
 
 Espero les sirva de ayuda.
